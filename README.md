@@ -4,7 +4,7 @@ Java program to compress and expand files using Huffman, LZW, and Tar methods
 ## Motivation
 This project was initially created to fulfill a semester project, but has been adapted to grade these projects instead as I am now the Teaching Assisstant for the class. Along with this, additional functionality has been added in order to keep it up to date with the class.
 
-## Code style
+## Code Style
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 ## Framework Used
@@ -14,8 +14,9 @@ This project was initially created to fulfill a semester project, but has been a
 This project allows the user to compress, expand, and archive any file type. The most notable feature is that the user can decide which compression method is used for files to better suit their needs as there are advantages to each algorithm.
 
 ## Installation
-1. Be sure that you have Maven and Java installed locally
-2. Dowload or clone the Repo into an empty directory
+1. [Download and install Java] (https://java.com/en/)
+2. [Download and install Maven] (https://maven.apache.org/download.cgi)
+2. Dowload or clone this repository into an empty directory
 3. Compile all files in the src/main/java folder (Javac *.java)
 4. Run the program using any of the commands shown below
 
