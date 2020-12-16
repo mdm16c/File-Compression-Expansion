@@ -14,8 +14,8 @@ This project was initially created to fulfill a semester project, but has been a
 This project allows the user to compress, expand, and archive any file type. The most notable feature is that the user can decide which compression method is used for files to better suit their needs as there are advantages to each algorithm.
 
 ## Installation
-1. [Download and install Java] (https://java.com/en/)
-2. [Download and install Maven] (https://maven.apache.org/download.cgi)
+1. [Download and install Java](https://java.com/en/)
+2. [Download and install Maven](https://maven.apache.org/download.cgi)
 2. Dowload or clone this repository into an empty directory
 3. Compile all files in the src/main/java folder (Javac *.java)
 4. Run the program using any of the commands shown below
