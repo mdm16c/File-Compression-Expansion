@@ -1,4 +1,4 @@
-## File-Compression-Expansion
+# File-Compression-Expansion
 Java program to compress and expand files using Huffman, LZW, and Tar methods
 
 ## Motivation
@@ -73,4 +73,4 @@ There are five different test classes in order to grade projects more efficientl
 
 -**FileCompressionTestALZW** tests the compression and expansion of files using the Huffman and LZW methods along with the compression and expansion of Tar archives containing LZW compressed files.
 
-MIT © [mdm16c](https://github.com/mdm16c)
+MIT © [Matthew McCracken](https://github.com/mdm16c)
